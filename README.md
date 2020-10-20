@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi this is Harsh 👋
 
-<!--
-**harshsri2208/harshsri2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some cool projects for hackathons
+- 🌱 I’m currently learning Spring framework and React js
+- 👯 I’m looking to collaborate on any new open source ideas
+- 💬 Ask me about technology, zoology, politics and economy. I like to learn and be multi dimensional in my knowledge
+- 📫 How to reach me: <a style="color:#02ccff" href="mailto:harshsri2208@gmail.com">harshsri2208@gmail.com</a>
+- ⚡ Fun fact: Did you know that donald duck was banned in Finland because he didn't wear pants. Read that in school, was my favourite question to ask in school quizzes
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/harshsri2208">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsri2208&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's github stats"/>
+</a>
