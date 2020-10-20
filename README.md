@@ -10,5 +10,9 @@
 
 
 <a href="https://github.com/harshsri2208">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsri2208&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshsri2208&show_icons=true&theme=tokyonight&count_private=true" alt="Harsh's github stats"/>
+</a>
+
+<a href="https://github.com/harshsri2208">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsri2208&show_icons=true&theme=tokyonight&count_private=true&hide=jupyter%20notebook" alt="Harsh's Language stats"/>
 </a>
