@@ -1,6 +1,6 @@
 ### Hi this is Harsh 👋
 
-- 🔭 I’m currently working on some cool projects for hackathons
+- 🔭 I’m currently working at SAP Labs as an SDE and working on some cool projects for hackathons
 - 👯 I’m looking to collaborate on any new open source ideas
 - 💬 Ask me about technology, zoology, politics and economy. I like to learn and be multi dimensional in my knowledge
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:harshsri2208@gmail.com">harshsri2208@gmail.com</a>
